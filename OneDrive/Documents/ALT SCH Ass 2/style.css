@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+/* body{
+    background-color: #ecf5f4;
+    width: 1440px;
+ height: 840px;
+opacity: 100%;
+
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 140px;
+} */
+/* .logo{
+    width: 77.33px;
+height: 80px;
+top: 205px;
+left: 140px;
+}
+.individuals{
+    width: 268px;
+height: 50px;
+top: 335px;
+left: 140px;
+} */
+/* .individuals h1{
+    font-family: Brown;
+font-size: 40px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: -0.800000011920929px;
+text-align: left;
+margin-top: 70px;
+} */
+/* .individuals p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: Brown;
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0px;
+text-align: left;
+}
+.box2{
+    background-color: #ffff;
+}
+form{
+    width: 580px;
+    margin-left: 30px;
+} */
+body{
+    background-color: #f7fdfc;
+
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 30px;
+    /* border:2px solid; */
+    padding: 20px;
+}
+.box2{
+    background-color: white;
+    box-shadow: 0px 4px 50px 0px #0408131A;
+    padding: 20px ;
+    min-height: 70vh;
+}
+.form_flex{
+    display: flex;
+} 
+.form_flex label{
+    margin-left: 40px;
+}
+.register{
+width: 500px;
+height: 24px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #2EC4B6;
+border: none;
+margin-top: 35px;
+color: white;
+}
+.change{
+    color:#2EC4B6 ;
+}
